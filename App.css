@@ -1,5 +1,3 @@
-/* src/App.css */
-
 body {
   margin: 10px auto;
   min-width: 250px;
@@ -24,7 +22,6 @@ ul li {
   background: #eee;
   font-size: 18px;
   transition: 0.2s;
-
   -webkit-user-select: none;
   -moz-user-select: none;
   -ms-user-select: none;
